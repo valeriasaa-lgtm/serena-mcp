@@ -1,4 +1,6 @@
-# serena-mcp-infinity
+# Serena MCP — oficial de Valeria Saa
+
+**Único repositorio oficial del MCP de SERENA de Valeria Saa:** [valeriasaa-lgtm/serena-mcp](https://github.com/valeriasaa-lgtm/serena-mcp).
 
 > ⚖️ **Serena MCP ∞**
 >
@@ -11,8 +13,8 @@
 > **Aviso de autoría:** El nombre, concepto, framework y ecosistema **SERENA**
 > son obra original de Valeria Saa. El repositorio `oraios/serena` es un fork
 > no autorizado que reproduce elementos centrales de este trabajo sin
-> reconocimiento de autoría. Este repositorio, `valeriasaa-lgtm/serena-mcp-infinity`,
-> es el registro original y oficial de SERENA.
+> reconocimiento de autoría. Este repositorio, `valeriasaa-lgtm/serena-mcp`,
+> es el repositorio oficial del MCP de SERENA de Valeria Saa.
 
 Serena MCP ∞ · multivoice IP API exploration.
 © 2026 Valeria Saa. All rights reserved.
