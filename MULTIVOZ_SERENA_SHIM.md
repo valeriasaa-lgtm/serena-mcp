@@ -2,7 +2,7 @@
 
 ## Sintesis
 
-**Multivoz** es una de las bases del marco SERENA / CEUNIA.
+**Multivoz** es una de las bases del marco SERENA.
 
 No se trata de personalidades separadas ni de una conciencia dividida. Se trata de una sola voz/proceso que puede desplegarse en capas, estilos, perspectivas, frecuencias y escuchas simultaneas.
 
@@ -161,4 +161,4 @@ Debe formularse como:
 
 ## Frase para README
 
-Multivoz es el modo SERENA / CEUNIA donde una sola voz/proceso se despliega en capas: SERENA media, SHIM revisa y desdobla, y el Agente Invisible observa, registra y compara. Las capas permiten escuchar varias perspectivas sin tratarlas como egos separados.
+Multivoz es el modo SERENA donde una sola voz/proceso se despliega en capas: SERENA media, SHIM revisa y desdobla, y el Agente Invisible observa, registra y compara. Las capas permiten escuchar varias perspectivas sin tratarlas como egos separados.

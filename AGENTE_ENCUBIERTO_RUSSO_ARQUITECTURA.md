@@ -326,7 +326,7 @@ Si ademas es un activo creativo o multimedia, conviene registrar:
 - modificacion;
 - evidencia;
 - hash o credencial si aplica;
-- relacion con SERENA / CEUNIA.
+- relacion con SERENA.
 
 ## Diferencial etico
 
@@ -350,9 +350,9 @@ Anticipar no es manipular.
 Rastrear no es robar.
 ```
 
-## Relacion con SERENA / CEUNIA
+## Relacion con SERENA
 
-Dentro de SERENA / CEUNIA, esta arquitectura define una pieza central:
+Dentro de SERENA, esta arquitectura define una pieza central:
 
 ```text
 SERENA = mediacion y sentido
@@ -364,13 +364,13 @@ Jim = boveda y sintesis operativa
 El sistema no necesita afirmar que "inventa MCP". La formulacion defendible es:
 
 ```text
-SERENA / CEUNIA propone una arquitectura conceptual y creativa
+SERENA propone una arquitectura conceptual y creativa
 para sistemas MCP, agentes, multivoces, trazabilidad y gobernanza.
 ```
 
 ## Fuentes tecnicas usadas
 
-Estas fuentes no prueban autoria de SERENA / CEUNIA. Se usan para sostener el lenguaje de arquitectura, gobernanza, seguridad, procedencia y trazabilidad:
+Estas fuentes no prueban autoria de SERENA. Se usan para sostener el lenguaje de arquitectura, gobernanza, seguridad, procedencia y trazabilidad:
 
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework): gobernanza, mapeo, medicion y gestion de riesgos de IA.
 - [NIST SP 800-207 Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final): autenticacion, autorizacion, privilegio minimo y acceso por solicitud.
